@@ -12,12 +12,7 @@
 
 
 # HardWare
-- LeapMotion
-
-
-
-# SoftWare
-- JavaScripts
+- Leap Motion
 
 
 
